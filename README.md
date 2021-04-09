@@ -13,5 +13,5 @@ To recreate the Audio 1 and 2 simulations the .wav files within the "Notes for S
 where the Simulation 7 - Audio file 1/2...py files are run from.
 
 To recreate videos 1 and 2, each simulation .py file must be in a folder containing the files within the video 1 and 2 folders, respectively.
-Additionaly, for video 1, this folder must also contain the files in the folder "Weights Simulations 7".
+Additionaly, for video 1, this folder must also contain the files in the folder "Weights Simulations 7". Note finally that the pca.rar has to be unziped.
 
